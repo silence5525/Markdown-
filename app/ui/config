@@ -1,0 +1,20 @@
+{
+  ".url": {
+    "fnos-md-editor-fpk.Application": {
+      "noDisplay": true,
+      "allUsers": true,
+      "fileTypes": [
+        "md"
+      ],
+      "control": {
+        "accessPerm": "readonly"
+      },
+      "protocol": "http",
+      "title": "Markdown编辑器",
+      "icon": "images/icon_{0}.png",
+      "type": "iframe",
+      "port": "3001",
+      "url": "/"
+    }
+  }
+}

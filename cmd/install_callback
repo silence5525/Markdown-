@@ -1,0 +1,12 @@
+#!/bin/bash
+
+### This script is called after the user installs the application.
+
+cd "${TRIM_APPDEST}/server"
+
+export npm_config_cache="${TRIM_APPDEST}/server/npm_chche"
+mkdir -p $npm_config_cache
+
+"/var/apps/nodejs_v22/target/bin/node" "/var/apps/nodejs_v22/target/bin/npm" install
+  
+exit 0

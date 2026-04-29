@@ -1,0 +1,28 @@
+{
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "fnos-md-editor-fpk",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "fnos-md-editor-fpk"
+                    ]
+                }
+            },
+            {
+                "name": "fnos-md-editor-fpk/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "fnos-md-editor-fpk"
+                    ]
+                }
+            }
+        ]
+    }
+}

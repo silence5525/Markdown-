@@ -1,0 +1,82 @@
+{
+  "setting": {
+    "cline": {
+      "show": true,
+      "color": "#ddd"
+    }
+  },
+  "background": {
+    "type": "background",
+    "stroke": {
+      "size": 1,
+      "color": "#3b6fd5"
+    },
+    "fill": {
+      "type": "radial-gradient",
+      "color": "#2568ed",
+      "color1": "#5c91fb",
+      "color2": "#2568ed",
+      "r": 96,
+      "cx": 50,
+      "cy": 50,
+      "rx": 68
+    },
+    "path": {
+      "show": false,
+      "x": 0.5,
+      "y": 0.5,
+      "width": 255,
+      "height": 255,
+      "color": "blue",
+      "chooiceColor": "blue",
+      "dragColor": "yellow"
+    }
+  },
+  "texts": [
+    {
+      "type": "text",
+      "text": "Markdown编辑器",
+      "x": 29,
+      "y": 204,
+      "font": "Arial",
+      "size": 25,
+      "fill": "#ffffff",
+      "weight": "bold",
+      "stroke": {
+        "size": 0,
+        "color": "#000"
+      },
+      "path": {
+        "show": false,
+        "x": 29,
+        "y": 181,
+        "width": 198.625,
+        "height": 28,
+        "color": "blue",
+        "chooiceColor": "blue",
+        "dragColor": "yellow"
+      }
+    }
+  ],
+  "images": [
+    {
+      "type": "image",
+      "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNzc3NDQ5NDEyODA2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjIwNDAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PHBhdGggZD0iTTI2My42OCAzMDcuODRjMC0xNi43NjggMTEuODQtMzAuNCAyNi40MzItMzAuNGgyNjIuOTEyYzE0LjU5MiAwIDI2LjQzMiAxMy42MzIgMjYuNDMyIDMwLjQgMCAxNi44MzItMTEuODQgMzAuNC0yNi40MzIgMzAuNEgyOTAuMTEyYy0xNC41OTIgMC0yNi4zNjgtMTMuNTY4LTI2LjM2OC0zMC40ek0yNjMuNjggNDMwLjA4YzAtMTYuODMyIDExLjg0LTMwLjQ2NCAyNi40MzItMzAuNDY0aDI2Mi45MTJjMTQuNTkyIDAgMjYuNDMyIDEzLjYzMiAyNi40MzIgMzAuNCAwIDE2LjgzMi0xMS44NCAzMC40LTI2LjQzMiAzMC40SDI5MC4xMTJjLTE0LjU5MiAwLTI2LjM2OC0xMy41NjgtMjYuMzY4LTMwLjR6TTgzMy45MiA4MDYuNTkybDY5LjI0OC01NS40ODhhMzIgMzIgMCAxIDEgNDEuNjY0IDQ4LjU3NmwtMTA0LjUxMiA4NS42OTZhNDIuNjg4IDQyLjY4OCAwIDAgMS03MC40LTMyLjM4NFYxNjAuNzY4YTMyIDMyIDAgMCAxIDY0IDB2NjQ1Ljc2eiIgcC1pZD0iMjA0MSIgZmlsbD0iIzFhZmEyOSI+PC9wYXRoPjxwYXRoIGQ9Ik0yOTYuNDQ4IDU3Ny42djIwNC44aDQ2Ljcydi0xMzguNDMybDU5LjI2NCAxMzguNDk2aDQwLjMybDU5LjI2NC0xMzguNDk2djEzOC40OTZoNDQuOFY1NzcuNmgtNTguNTZsLTY1LjcyOCAxNTMuNi02Ny41ODQtMTUzLjZoLTU4LjQ5NnoiIHAtaWQ9IjIwNDIiIGZpbGw9IiMxYWZhMjkiPjwvcGF0aD48cGF0aCBkPSJNMTI3LjQyNCAyMjQuNTc2YTk2IDk2IDAgMCAxIDk2LTk2aDM5Ni4zNTJhOTYgOTYgMCAwIDEgOTYgOTZ2NTc4LjU2YTk2IDk2IDAgMCAxLTk2IDk2SDIyMy4zNmE5NiA5NiAwIDAgMS05Ni05NlYyMjQuNjR6IG05Ni0zMmEzMiAzMiAwIDAgMC0zMiAzMnY1NzguNTZhMzIgMzIgMCAwIDAgMzIgMzJoMzk2LjM1MmEzMiAzMiAwIDAgMCAzMi0zMlYyMjQuNjRhMzIgMzIgMCAwIDAtMzItMzJIMjIzLjM2eiIgcC1pZD0iMjA0MyIgZmlsbD0iIzFhZmEyOSI+PC9wYXRoPjwvc3ZnPg==",
+      "x": 83,
+      "y": 72,
+      "width": 100,
+      "height": 100,
+      "lock": true,
+      "path": {
+        "show": false,
+        "x": 83,
+        "y": 72,
+        "width": 100,
+        "height": 100,
+        "color": "blue",
+        "chooiceColor": "blue",
+        "dragColor": "yellow"
+      }
+    }
+  ]
+}

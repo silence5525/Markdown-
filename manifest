@@ -1,0 +1,15 @@
+appname=fnos-md-editor-fpk
+version=1.0.0
+display_name=Markdown编辑器
+desc="""Markdown编辑器"""
+platform=arm
+source=thirdparty
+maintainer=silence
+distributor=silence
+ctl_stop=true
+install_dep_apps=nodejs_v22
+desktop_uidir=ui
+desktop_applaunchname=fnos-md-editor-fpk.Application
+service_port=3001
+checkport=true
+disable_authorization_path=false
