@@ -21,8 +21,8 @@
 
 ### 2. 安装依赖
 # 克隆项目
-git clone https://github.com/你的用户名/你的仓库名.git
-cd 你的仓库名
+git clone https://github.com/silence5525/Markdown-.git
+cd Markdown-
 
 # 安装依赖
 npm install express
